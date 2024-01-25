@@ -1,0 +1,7 @@
+D:\Programação\C#\Pong\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Programação\C#\Pong\Pong\Pong\bin\Debug\Pong.exe
+D:\Programação\C#\Pong\Pong\Pong\bin\Debug\Pong.pdb
+D:\Programação\C#\Pong\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+D:\Programação\C#\Pong\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Pong\Pong\Pong\obj\Debug\Pong.exe
+D:\Programação\C#\Pong\Pong\Pong\obj\Debug\Pong.pdb
